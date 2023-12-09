@@ -25,11 +25,10 @@ Applying advanced RL and evolutionary algorithms provides a dynamic and explorat
 ### Advanced RL in Economic Decision-Making
 - Progress in applying reinforcement learning in complex economic scenarios, including algorithms like Q-learning, DQN, A3C, PPO, and DDPG.
       
-      #### Calvano, E., et al. on AI and Collusion
-      - Emilio Calvano and colleagues' paper, "Artificial intelligence, algorithmic pricing, and collusion" (2020), delves into the impact of AI and machine learning on market dynamics. They specifically focus on algorithmic       pricing and potential collusion in digital markets.
-      
-      #### Nicolas Lepore's Thesis on AI Pricing Collusion
-      - Nicolas Lepore's thesis, "AI Pricing Collusion: Multi-Agent Reinforcement Learning Algorithms in Bertrand Competition" (2021), presents an in-depth analysis using multi-agent RL algorithms to study the Bertrand             competition model.
+ #### Calvano, E., et al. on AI and Collusion
+ - Emilio Calvano and colleagues' paper, "Artificial intelligence, algorithmic pricing, and collusion" (2020), delves into the impact of AI and machine learning on market dynamics. They specifically focus on algorithmic       pricing and potential collusion in digital markets.
+ #### Nicolas Lepore's Thesis on AI Pricing Collusion
+ - Nicolas Lepore's thesis, "AI Pricing Collusion: Multi-Agent Reinforcement Learning Algorithms in Bertrand Competition" (2021), presents an in-depth analysis using multi-agent RL algorithms to study the Bertrand             competition model.
       
       This comprehensive literature review will establish a solid theoretical and empirical foundation for our research, highlighting the significance of advanced RL techniques and evolutionary algorithms in exploring tacit collusion in the Bertrand price competition model.
 
