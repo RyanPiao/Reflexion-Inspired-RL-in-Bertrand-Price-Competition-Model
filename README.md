@@ -16,9 +16,19 @@ Applying advanced RL and evolutionary algorithms provides a dynamic and explorat
 - To assess the implications of these findings for market dynamics and policy considerations.
 
 ## 2. Literature Review
-- Examining tacit collusion in oligopolistic markets.
-- Analyzing the folk theorem in the context of repeated games and its economic implications.
-- Reviewing advanced applications of RL and evolutionary algorithms in economic decision-making.
+This section will encompass a comprehensive review of existing literature, focusing on three key areas: tacit collusion in oligopolistic markets, the application of the folk theorem in repeated games and its economic implications, and the integration of advanced reinforcement learning and evolutionary algorithms in economic and strategic decision-making.
+
+- **Tacit Collusion in Oligopolistic Markets**: We will explore studies that address the phenomenon of tacit collusion in markets characterized by a few dominant players. This includes examining how firms might independently converge to collusive equilibria without explicit communication.
+
+- **The Folk Theorem and Economic Models**: The folk theorem plays a critical role in understanding how cooperation can be sustained in repeated games. We will review literature that applies this theorem to economic models, particularly in the context of oligopolistic competition.
+
+- **Advanced RL in Economic Decision-Making**: There has been significant progress in applying reinforcement learning to model complex economic scenarios. We will review studies that have successfully integrated RL algorithms like Q-learning, DQN, A3C, PPO, and DDPG into economic models.
+
+- **Calvano, E., et al. on AI and Collusion**: Emilio Calvano and colleagues' paper, "Artificial intelligence, algorithmic pricing, and collusion" (2020), offers valuable insights into how AI and machine learning can influence market dynamics, particularly in the context of algorithmic pricing and potential collusion scenarios in digital markets.
+
+- **Nicolas Lepore's Thesis on AI Pricing Collusion**: Nicolas Lepore's thesis, "AI Pricing Collusion: Multi-Agent Reinforcement Learning Algorithms in Bertrand Competition" (2021), provides a detailed exploration of using multi-agent RL algorithms to simulate and analyze the Bertrand competition model, focusing on how AI can be used to understand and potentially foster tacit collusion in markets.
+
+This comprehensive literature review will lay the foundation for our research, providing a robust theoretical and empirical context for our investigation into tacit collusion in the Bertrand price competition model using advanced RL techniques and evolutionary algorithms.
 
 ## 3. Methodology
 ### Model Design
