@@ -1,4 +1,4 @@
-# Enhanced Research Proposal: Advanced Reinforcement Learning and Evolutionary Algorithms in Investigating Tacit Collusion in the Bertrand Price Competition Model
+# Research Proposal: Advanced Reinforcement Learning and Evolutionary Algorithms in Investigating Tacit Collusion in the Bertrand Price Competition Model
 
 ## Abstract
 This research intends to investigate the dynamics of tacit collusion in the Bertrand price competition model using a diverse range of advanced multi-agent reinforcement learning (RL) techniques and evolutionary algorithms. The study aims to explore how AI agents might evolve from competitive to cooperative strategies under various market conditions.
