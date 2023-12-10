@@ -23,10 +23,10 @@ Adapting the Reflexion model to economic modeling could provide a more dynamic a
 - **Key Contribution**: Understanding AI-driven collusion in market settings.
 
 ### Reflexion-Inspired RL Model
-- **Objective**: Simulate market dynamics, emphasizing firms' adaptive and reflective strategies.
-- **Algorithm**: Incorporating action generation, evaluation, and reflection, focusing on entire action trajectories.
-- **Approach**: Adds a significant reflection component for complex decision-making and strategy adaptation.
-- **Key Contribution**: Providing nuanced insights into market dynamics, long-term strategies, and complex interactions.
+- **Objective**:  This model aims to simulate market dynamics, with a focus on how firms might adapt and reflect on their pricing strategies in response to market feedback.
+- **Algorithm**: The Reflexion-inspired approach involves a structured loop of action generation (price setting), evaluation (market response), and reflection (strategy adjustment). It emphasizes learning from entire action trajectories and incorporates off-policy learning methods.
+- **Approach**: This model adds a significant reflection component to the learning process, where agents not only adjust based on rewards but also actively reflect on their actions and outcomes, potentially using complex evaluation models.
+- **Key Contribution**: The Reflexion-inspired model could offer a more nuanced understanding of market dynamics and strategies, especially in scenarios where long-term strategy and complex interactions are crucial. It goes beyond immediate reward optimization, potentially leading to more innovative and adaptive market strategies.
 
 ### Reflexion: Language Agents with Verbal Reinforcement Learning
 - **Foundation**: The paper introduces a novel RL approach for language processing, emphasizing verbal interactions and reinforcement.
