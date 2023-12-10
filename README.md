@@ -1,22 +1,21 @@
 # Reflexion-Inspired RL in Bertrand Price Competition Model
 
-This repository explores an innovative adaptation of the Reflexion-inspired reinforcement learning (RL) model to the Bertrand price competition model. Contrasting with traditional RL methods, such as those in Nicolas Lepore's 2021 thesis, this project introduces a novel approach to deepen the understanding of tacit collusion and market dynamics in economic models.
+This repository explores an innovative adaptation of the Reflexion-inspired reinforcement learning (RL) model to the Bertrand price competition model. This project takes a novel approach compared to traditional RL methods, aiming to deepen the understanding of tacit collusion and market dynamics in economic models.
 
 ## Key Features
-- **Cyclical Process**: Implementation of a cyclical process encompassing action generation, market response evaluation, and outcome reflection to inform future strategic decisions.
-- **Strategic Depth and Adaptability**: Enhancing the strategic depth and adaptability in economic modeling, a dimension not fully explored in traditional RL approaches.
-- **Learning from Trajectories**: Emphasis on learning from entire action trajectories and conducting complex evaluations, offering a more holistic view of market behavior.
-- **Long-Term Strategy Development**: Focused on providing insights into long-term strategy development and adaptability within the dynamic market environments of the Bertrand model.
+- **Cyclical Process**: Implements a cyclical process of action generation, market response evaluation, and reflection on outcomes to inform future strategies.
+- **Strategic Depth and Adaptability**: Adds strategic depth and adaptability, offering a new dimension to economic modeling.
+- **Trajectory Learning and Complex Evaluation**: Focuses on learning from entire action trajectories and conducting complex evaluations of market responses.
+- **Long-Term Strategy Development**: Provides insights into long-term strategy development in dynamic market environments.
 
 ## Project Background
-Building upon the foundations laid in traditional economic modeling and RL, this project seeks to explore new frontiers by integrating advanced AI methodologies. It aims to contribute a fresh perspective to the study of competitive strategies and collusion scenarios within the Bertrand price competition framework.
+Building on traditional economic modeling and RL, this project integrates advanced AI methodologies to explore new aspects of the Bertrand price competition model. It aims to offer fresh perspectives on competitive strategies and collusion scenarios.
 
-## Objectives
-- To investigate the potential of Reflexion-inspired RL in enhancing the understanding of market dynamics and strategic behaviors in the Bertrand price competition model.
-- To compare and extend the findings of traditional RL approaches, specifically in the context of tacit collusion among market agents.
+## Research Proposal
+For detailed information on the objectives, methodology, and background of this project, refer to the [Research Proposal](https://github.com/RyanPiao/Reflexion-Inspired-RL-in-Bertrand-Price-Competition-Model/blob/main/Research%20Proposal.md).
 
 ## Contributing
-Contributions to this project are welcome. Whether it's feature enhancement, bug fixes, or documentation improvements, please feel free to fork this repository and submit your pull requests.
+We welcome contributions to this project, including feature enhancements, bug fixes, and documentation improvements. Please feel free to fork the repository and submit pull requests.
 
 ## License
-This project is licensed under [license name], see the LICENSE.md file for details.
+This project is licensed under [license name]. See the LICENSE.md file for details.
