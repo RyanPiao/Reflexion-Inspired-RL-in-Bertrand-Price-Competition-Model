@@ -51,9 +51,11 @@ Adapting the Reflexion model to economic modeling could provide a more dynamic a
 - Ensuring the model's adaptability and robustness in dynamic market conditions.
 
 ## 5. Contributions
-- Introducing a novel RL approach to economic modeling, enhancing the realism and strategic depth of market simulations.
-- Providing insights into market dynamics, potentially reshaping economic theories and regulatory frameworks.
-- Demonstrating the interdisciplinary application of advanced RL methods in economic studies.
+- **Enhanced Strategy Development**: The Reflexion-inspired model's emphasis on reflection and adaptation could lead to more sophisticated and realistic strategy development by market agents.
+- **Long-term Perspective**: By focusing on entire trajectories and incorporating off-policy learning, this model offers insights into the long-term effects of pricing strategies, which is crucial in understanding real-world market dynamics.
+- **Complex Evaluation Mechanisms**: The ability to incorporate complex evaluation mechanisms allows for a more detailed and accurate simulation of market responses and agent strategies.
+- **Interdisciplinary Application**: This approach also opens up possibilities for interdisciplinary applications, blending concepts from AI, economics, and potentially other fields.
+### In summary, while Lepore's thesis represents a significant contribution to understanding tacit collusion through traditional RL methods, the Reflexion-inspired approach offers a new perspective by incorporating a more structured and reflective learning process. This could provide deeper insights into the dynamics of pricing strategies and market behavior, making it a valuable addition to the field of economic modeling using AI.
 
 ## 6. Timeline and Milestones
 - **Months 1-2**: Literature review, model development, and simulation environment setup.
