@@ -102,4 +102,4 @@ In summary, applying a Reflexion-inspired model to the Bertrand competition coul
 ## References
 - Lepore, N. (2021). "AI Pricing Collusion: Multi-Agent Reinforcement Learning Algorithms in Bertrand Competition." Bachelor's thesis, Harvard College.
 - Calvano, E., Calzolari, G., Denicolo, V., and Pastorello, S. (2020). "Artificial intelligence, algorithmic pricing, and collusion." American Economic Review, 110(10):3267–3297.
-- "Reflexion: Language Agents with Verbal Reinforcement Learning" (specific citation details of the paper).
+- Shinn N, Cassano F, Gopinath A, Narasimhan KR, Yao S. Reflexion: Language agents with verbal reinforcement learning. InThirty-seventh Conference on Neural Information Processing Systems 2023 Nov 2.
