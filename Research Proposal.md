@@ -66,6 +66,8 @@ While Lepore's work, primarily using Q-learning and actor-critic methods, provid
 ## 7. Conclusion
 This study aims to innovate economic modeling by applying a Reflexion-inspired RL approach to the Bertrand competition framework, enhancing understanding of competitive and collusive market behaviors.
 
+# Other
+
 ## Lepore's 2021 vs Reflexion-Inspired RL Model
 
 ### Nicolas Lepore's 2021 Harvard Thesis
